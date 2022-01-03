@@ -1,0 +1,11 @@
+.summaryMain {
+	margin-top: 1rem;
+	margin-right: 1rem;
+	max-width: 100% !important;
+	word-break: break-word;
+}
+
+.summaryMain > p, h2 {
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+}

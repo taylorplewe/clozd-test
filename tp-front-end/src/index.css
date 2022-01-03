@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	background-color: #d6c8c3;
+	font-family: Helvetica;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+	color: #635854;
+}
+
+* {
+	color: #37312f;
+}

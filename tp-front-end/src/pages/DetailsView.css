@@ -1,0 +1,6 @@
+.detailsGrid {
+	display: grid;
+	grid-template-columns: 8rem auto;
+	align-items: center;
+	margin-bottom: 2rem;
+}

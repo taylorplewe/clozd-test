@@ -1,0 +1,23 @@
+.main {
+	width: 60%;
+	margin: 80px auto;
+}
+
+h1 {
+	font-size: 32pt;
+}
+
+a {
+	text-decoration: none;
+}
+
+.button {
+	background-color: #c1b3af;
+	padding: 1rem 1.5rem;
+	cursor: pointer;
+	max-width: fit-content;
+}
+
+.button:hover {
+	background-color: #c7b8b4;
+}
